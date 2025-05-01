@@ -1,0 +1,1 @@
+python3 main.py calibrate --pattern_path "pattern/*" --chessboard_size 9 6

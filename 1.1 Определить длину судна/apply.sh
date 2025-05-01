@@ -1,0 +1,1 @@
+python3 main.py correct --input "badly/*"  --calibration "calibration_data.pkl"
